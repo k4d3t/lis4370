@@ -2,7 +2,7 @@ Package: RPackag
 Title: Modern tools for mathematical operations
 Version: 0.0.0.9000
 Authors@R: "Lauren Berns <laurenberns3@gmail.com> [aut, cre]"
-Description: What the package does (one paragraph)
+Description: Provides a selection of mathematical operations for use in R.
 Depends: R (>= 3.1.2)
 License: Creative Commons CC0 1.0 Universal
 LazyData: true
